@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+    font-size: 40px;
+    border: 2px dashed pink;
+}
+a{
+    color:blue;
+}
+a:hover{
+    color:red;
+}
+
